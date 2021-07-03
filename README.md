@@ -24,8 +24,8 @@ All software is written in PYTHON3 (https://www.python.org/) and makes use of th
 #### data pre-processing steps:
 - ontology_tagging.py: code creating hypothesis related to the ontology.
 #### layers for the neural language models:
-- model_layers/attention_layers.py: implementation of the attention function
-- model_layers/nn_layers.py: implementation of the Bi-LSTM, and softmax layer
+- attention_layers.py: implementation of the attention function
+- nn_layers.py: implementation of the Bi-LSTM, and softmax layer
 
 
 
