@@ -11,7 +11,7 @@ All software is written in PYTHON3 (https://www.python.org/) and makes use of th
 2. Download SemEval2016 Dataset: http://alt.qcri.org/semeval2016/task5/index.php?id=data-and-tools
 3. Download Stanford CoreNLP:https://stanfordnlp.github.io/CoreNLP/download.html
 4. Download the files for the LCR-Rot-hop++ model.
-
+5. Make a "results" folder to save model.
 
 ## Software explanation:
 #### main environment:
@@ -19,10 +19,10 @@ All software is written in PYTHON3 (https://www.python.org/) and makes use of th
 - config.py: contains parameter configurations that can be changed such as: dataset_year, batch_size, iterations.
 - utils.py: contains methods used in other files.
 #### Aspect-Based sentiment classifiers:
-- abs_classifiers/lcr_v4.py:  implementation for the LCR-Rot-hop++ algorithm version 4, a subclass of neural language model
-- abs_classifiers/neural_language_model.py: implementation of neural language model algorithm, main class
+- lcr_v4.py:  implementation for the LCR-Rot-hop++ algorithm version 4, a subclass of neural language model
+- neural_language_model.py: implementation of neural language model algorithm, main class
 #### data pre-processing steps:
-- data_setup/ontology_tagging.py: code creating hypothesis related to the ontology.
+- ontology_tagging.py: code creating hypothesis related to the ontology.
 #### layers for the neural language models:
 - model_layers/attention_layers.py: implementation of the attention function
 - model_layers/nn_layers.py: implementation of the Bi-LSTM, and softmax layer
