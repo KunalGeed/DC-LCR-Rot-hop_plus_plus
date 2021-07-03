@@ -10,8 +10,9 @@ All software is written in PYTHON3 (https://www.python.org/) and makes use of th
 1. Download ontology: https://github.com/KSchouten/Heracles/tree/master/src/main/resources/externalData
 2. Download SemEval2016 Dataset: http://alt.qcri.org/semeval2016/task5/index.php?id=data-and-tools
 3. Download Stanford CoreNLP:https://stanfordnlp.github.io/CoreNLP/download.html
-4. Download the files for the LCR-Rot-hop++ model.
+4. Download the files for the LCR-Rot-hop++ model: https://github.com/mtrusca/HAABSA\_PLUS\_PLUS
 5. Make a "results" folder to save model.
+6. Overwrite any files from the LCR-Rot-hop++ model with the files in this repository.
 
 ## Software explanation:
 #### main environment:
