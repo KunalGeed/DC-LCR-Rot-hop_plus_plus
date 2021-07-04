@@ -34,5 +34,5 @@ All software is written in PYTHON3 (https://www.python.org/) and makes use of th
 This code uses ideas and code of the following related papers:
 - Zheng, S. and Xia, R. (2018). Left-center-right separated neural network for aspect-based sentiment analysis with rotatory attention. arXiv preprint arXiv:1802.00892.
 - Schouten, K. and Frasincar, F. (2018). Ontology-driven sentiment analysis of product and service aspects. In Proceedings of the 15th Extended Semantic Web Conference (ESWC 2018), pages 608–623.
-- Wallaart, O. and Frasincar, F. (2019). A hybrid approach for aspect-based sentiment analysis using a lexicalized domain ontology and attentional neural models. In The Semantic Web - 16th Extended Semantic Web Conference (ESWC 2019), pages 363–378.
+- Truşcǎ M.M., Wassenberg D., Frasincar F., Dekker R. (2020) A Hybrid Approach for Aspect-Based Sentiment Analysis Using Deep Contextual Word Embeddings and Hierarchical Attention. In: Bielikova M., Mikkonen T., Pautasso C. (eds) Web Engineering. ICWE 2020. Lecture Notes in Computer Science, vol 12128. Springer, Cham. https://doi-org.eur.idm.oclc.org/10.1007/978-3-030-50578-3_25
 - Hupkes, D., Veldhoen, S., and Zuidema, W. H. (2018). Visualisation and ’diagnostic classifiers’ reveal how recurrent and recursive neural networks process hierarchical structure. J. Artif. Intell. Res., 61:907–926.
