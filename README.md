@@ -13,7 +13,7 @@ All software is written in PYTHON3 (https://www.python.org/) and makes use of th
 4. Download the files for the LCR-Rot-hop++ model: https://github.com/mtrusca/HAABSA\_PLUS\_PLUS
 5. Make a "results" folder to save model.
 6. Overwrite any files from the LCR-Rot-hop++ model with the files in this repository.
-
+7. The pickle files containing the layer information used in the paper can be found on https://drive.google.com/drive/folders/1tBcBiOphU4DTlthwDZHkR86mv5wSXhYO?usp=sharing
 ## Software explanation:
 #### main environment:
 - main_2.py: program to run . Each method can be activated by setting its corresponding boolean to True e.g. to run the lcr_Rot method set lcr_Rot = True.
